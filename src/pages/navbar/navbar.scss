@@ -1,0 +1,21 @@
+body{
+    background-color:ffffff ;
+}
+.nav{
+    height: 5vh;
+   
+}
+.navmenu{
+    display: flex;
+    justify-content: space-around;
+    margin-left:60% ;
+    font-size: large;
+    font-weight:500;
+    align-items: center;
+}
+.navbut{
+    background-color: red;
+    border-radius:15px;
+    padding: 15px;
+    color: white;
+}
